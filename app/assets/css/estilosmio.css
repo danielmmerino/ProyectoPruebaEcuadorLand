@@ -1,0 +1,21 @@
+.logearse{
+	margin-left: -100%;
+	margin-right: 100%;
+	margin-top: 2%;
+	padding: 2%;
+	border-style: solid;
+}
+.logearse form button{
+	margin-left: 30%;
+	
+
+}
+.jumbotron-saludo{
+	margin-left: 2%;
+	margin-right: 2%;
+	padding: 8%;
+	border-radius: 30%;
+	border-style: solid;
+	background-color: white;
+
+}
